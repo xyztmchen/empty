@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Robot_Scratch_class",
+"dataUrl": "proj_empty.data.unityweb",
+"wasmCodeUrl": "proj_empty.wasm.code.unityweb",
+"wasmFrameworkUrl": "proj_empty.wasm.framework.unityweb",
+"TOTAL_MEMORY": 117440512,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
